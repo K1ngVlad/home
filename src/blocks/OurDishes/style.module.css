@@ -1,0 +1,30 @@
+.ourDishes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 132px 0 152px 0;
+  width: 1130px;
+}
+
+.box {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 139px;
+  width: 100%;
+  height: 474px;
+}
+
+.pizza {
+  width: 445px;
+  height: 100%;
+  object-position: right top;
+  object-fit: cover;
+}
+
+.rightBlock {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  width: 630px;
+}

@@ -1,0 +1,38 @@
+.contact {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 228px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  color: #ffffff;
+}
+
+.number {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  display: flex;
+}
+
+.numberBlock {
+  position: relative;
+  width: 162px;
+}
+
+.descript {
+  font-size: 14px;
+  line-height: 19px;
+  font-weight: 400;
+}
+
+.numberBlock::after {
+  content: '';
+  position: absolute;
+  width: 1px;
+  height: 51px;
+  background: #ffffff;
+  left: -34px;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}

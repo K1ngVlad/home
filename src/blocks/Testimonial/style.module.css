@@ -1,0 +1,36 @@
+.testimonial {
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+  width: 100%;
+  padding: 104px 0 108px 0;
+  background: #e6e5e5;
+}
+
+/* .box {
+  width: 920px;
+} */
+
+.pagination {
+  display: flex;
+  justify-content: center;
+}
+
+.bullet {
+  cursor: pointer;
+  display: block;
+  width: 5px;
+  height: 5px;
+  background: #c4c4c4;
+  border-radius: 50%;
+}
+
+.bulletActive {
+  width: 7px;
+  height: 7px;
+  border: 1px solid #ff7400;
+}
+
+.bullet:not(:first-child) {
+  margin-left: 2px;
+}

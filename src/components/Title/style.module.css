@@ -1,0 +1,32 @@
+.title {
+  font-weight: 400;
+  line-height: 57px;
+}
+
+.normal {
+  font-size: 54px;
+}
+.small {
+  font-size: 50px;
+}
+
+.small-normal {
+  font-size: 52px;
+}
+
+.big {
+  font-size: 80px;
+}
+
+.black {
+  color: black;
+}
+
+.white {
+  color: white;
+  text-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
+}
+
+.orange {
+  color: #d67e35;
+}

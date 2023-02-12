@@ -1,0 +1,30 @@
+.hero {
+  width: 100%;
+  height: 800px;
+  background-image: url('../../assets/background/hero.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 322px 0 0 175px;
+  position: relative;
+}
+
+.heroContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 249px;
+  width: 556px;
+}
+
+.intro {
+  width: 1138px;
+  padding: 0;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  left: 50%;
+  bottom: 0;
+  transform: translate(-50%, 66%);
+}

@@ -1,0 +1,30 @@
+.lineText {
+  position: relative;
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  color: #ffffff;
+}
+
+.lineText::before {
+  content: '';
+  position: absolute;
+  background: #c4c4c4;
+  width: 61px;
+  height: 2px;
+  left: -8px;
+  top: 50%;
+  transform: translate(-100%, -50%);
+}
+
+.lineText::after {
+  content: '';
+  position: absolute;
+  background: #c4c4c4;
+  width: 61px;
+  height: 2px;
+  right: -8px;
+  top: 50%;
+  transform: translate(100%, -50%);
+}
