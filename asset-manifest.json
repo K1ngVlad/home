@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.b173f68e.css",
+    "main.js": "/home/static/js/main.4e6d4589.js",
+    "static/media/menu.png": "/home/static/media/menu.301bc534a51b591c65b3.png",
+    "static/media/reservation.png": "/home/static/media/reservation.94eb3a0d3bb46217b4e9.png",
+    "static/media/hero.png": "/home/static/media/hero.2c9d2cca5b364b8d2cba.png",
+    "static/media/celebrate.png": "/home/static/media/celebrate.42b83433112f511f27b6.png",
+    "static/media/historyImgs.png": "/home/static/media/historyImgs.9b82d0eb3dacbe5fd588.png",
+    "static/media/cook-2.png": "/home/static/media/cook-2.3f23829ca690526c5cad.png",
+    "static/media/pizza.png": "/home/static/media/pizza.6703187cd7413e4564ef.png",
+    "static/media/cook-3.png": "/home/static/media/cook-3.181ce2c3ef3644d7526f.png",
+    "static/media/food-1.png": "/home/static/media/food-1.3ce7ad92ad7d7c3a884d.png",
+    "static/media/cook-1.png": "/home/static/media/cook-1.836c5a6fe31b385da7b4.png",
+    "static/media/food-3.png": "/home/static/media/food-3.3d221f9b6a5660b7ddbc.png",
+    "static/media/food-2.png": "/home/static/media/food-2.4e53c5e8c9fefc595b09.png",
+    "static/media/burgerMax.png": "/home/static/media/burgerMax.b304ca98d8d65f5f4d95.png",
+    "static/media/hamburger.png": "/home/static/media/hamburger.75bc51f0cfb45f1412da.png",
+    "static/media/avatar.png": "/home/static/media/avatar.71b6129520f865f51bf3.png",
+    "static/media/cart.svg": "/home/static/media/cart.77abb5c87f567ae44983bb1d9a9616cf.svg",
+    "static/media/phone.svg": "/home/static/media/phone.b9b62b28818c354a3f13d721191bb69b.svg",
+    "static/media/intro.svg": "/home/static/media/intro.c5e660751aeb53b03bb091d6cf3c9d98.svg",
+    "index.html": "/home/index.html",
+    "static/media/logo.svg": "/home/static/media/logo.b4624506220a0856a1302b2b30b0d2a2.svg",
+    "static/media/burger.svg": "/home/static/media/burger.af37d4b9d57625425fe9cfad015620d4.svg",
+    "main.b173f68e.css.map": "/home/static/css/main.b173f68e.css.map",
+    "main.4e6d4589.js.map": "/home/static/js/main.4e6d4589.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b173f68e.css",
+    "static/js/main.4e6d4589.js"
+  ]
+}
