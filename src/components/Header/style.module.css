@@ -47,4 +47,9 @@ nav {
   .burger {
     display: block;
   }
+
+  .logo {
+    width: 60px;
+    height: 24px;
+  }
 }

@@ -11,7 +11,7 @@ import s from './style.module.css';
 const Header = () => {
   return (
     <header className={s.header}>
-      <img alt="logo" src={svg} />
+      <img className={s.logo} alt="logo" src={svg} />
       <nav className={s.nav}>
         <div className={s.links}>
           {api.map((e) => {
