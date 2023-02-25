@@ -15,6 +15,7 @@ const Testimonial = () => {
     <section className={s.testimonial}>
       <div className={s.box}>
         <Swiper
+          loop={true}
           modules={[Pagination]}
           spaceBetween={50}
           slidesPerView={1}

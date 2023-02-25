@@ -4,7 +4,6 @@ const FoodGallery = (props) => {
   return (
     <div className={s.foodGallery}>
       {props.api.map((e) => {
-        console.log(`img${e.id + 1}`);
         return (
           <img
             alt="dishes"

@@ -28,3 +28,6 @@
   top: 50%;
   transform: translate(100%, -50%);
 }
+
+@media and (max-width: 1199px) {
+}

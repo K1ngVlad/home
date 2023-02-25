@@ -8,6 +8,7 @@ import { Testimonial } from './blocks/Testimonial';
 
 import './App.css';
 import { Gallery } from './blocks/Gallery';
+import { Footer } from './components/Footer';
 
 const App = () => {
   return (
@@ -20,6 +21,7 @@ const App = () => {
       <OurMenu />
       <Testimonial />
       <Gallery />
+      <Footer />
     </div>
   );
 };

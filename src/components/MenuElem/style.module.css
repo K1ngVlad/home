@@ -81,3 +81,18 @@
   text-align: center;
   width: 200px;
 }
+
+@media screen and (max-width: 1199px) {
+  .menuElem {
+    width: 290px;
+    height: 510px;
+  }
+  .menuElem:not(:first-child) {
+    display: none;
+  }
+
+  .menuElem.recommend::after {
+    width: 130px;
+    height: 36px;
+  }
+}

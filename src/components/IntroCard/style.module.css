@@ -29,3 +29,21 @@
 .colorTitle {
   color: #bc9060;
 }
+
+@media screen and (max-width: 1199px) {
+  .introCard {
+    padding-top: 20px;
+    width: 100%;
+    max-width: 700px;
+    height: 276px;
+  }
+  .text {
+    font-size: 22px;
+    line-height: 25px;
+  }
+
+  .title {
+    font-size: 26px;
+    line-height: 30px;
+  }
+}

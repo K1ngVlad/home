@@ -23,3 +23,19 @@
   margin-top: 138px;
   width: 100%;
 }
+
+@media screen and (max-width: 1199px) {
+  .box {
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1110px; */
+    width: 100%;
+    padding: 60px 20px 106px 20px;
+  }
+
+  .menu {
+    margin-top: 98px;
+    width: auto;
+  }
+}

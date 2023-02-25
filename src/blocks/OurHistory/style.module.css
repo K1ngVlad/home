@@ -38,3 +38,37 @@
   margin-top: 39px;
   width: 300px;
 }
+
+@media screen and (max-width: 1199px) {
+  .ourHistory {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    justify-content: space-between;
+    padding: 830px 15px 50px 15px;
+    width: 100%;
+  }
+  .imgs {
+    margin-top: 45px;
+    max-width: 539px;
+    max-height: 498px;
+    width: 100%;
+    height: auto;
+  }
+  .leftBlock {
+    max-width: 444px;
+    width: 100%;
+    padding-top: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .quanity {
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .textHistory {
+    margin-top: 48px;
+  }
+}

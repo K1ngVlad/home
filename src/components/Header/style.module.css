@@ -7,6 +7,7 @@
   justify-content: space-between;
   color: white;
   z-index: 100;
+  padding: 0 11.4583%;
 }
 
 nav {
@@ -20,4 +21,30 @@ nav {
   display: flex;
   justify-content: space-between;
   width: 277px;
+}
+
+.burger {
+  display: none;
+  width: 31px;
+  height: 18px;
+  background: none;
+  border: none;
+  outline: none;
+}
+
+.burgerImg {
+  width: 100%;
+  height: 100%;
+}
+
+@media screen and (max-width: 1199px) {
+  .header {
+    padding: 0 14px 0 17px;
+  }
+  .nav {
+    display: none;
+  }
+  .burger {
+    display: block;
+  }
 }

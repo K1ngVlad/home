@@ -7,10 +7,6 @@
   background: #e6e5e5;
 }
 
-/* .box {
-  width: 920px;
-} */
-
 .pagination {
   display: flex;
   justify-content: center;
@@ -33,4 +29,12 @@
 
 .bullet:not(:first-child) {
   margin-left: 2px;
+}
+
+@media screen and (max-width: 1199px) {
+  .testimonial {
+    width: 100%;
+    padding: 11px 15px 25px 15px;
+    background: #e6e5e5;
+  }
 }

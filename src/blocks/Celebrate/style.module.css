@@ -31,3 +31,23 @@
 .leftBlock {
   width: 601px;
 }
+
+@media screen and (max-width: 1199px) {
+  .box {
+    width: 100%;
+    flex-direction: column;
+    justify-content: flex-start;
+    max-width: 1089px;
+    padding: 20px 15px 30px 15px;
+  }
+  .leftBlock {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+  }
+  .text {
+    margin-bottom: 40px;
+  }
+}
